@@ -150,9 +150,11 @@ a {
     color: inherit;
 }
 
+
 .board_wrap {
-    left:500px;
-    width: 50%;
+    position: relative;
+    right: 250px;
+    width: 500px;
     margin: 100px auto;
 }
 
